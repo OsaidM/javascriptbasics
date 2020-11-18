@@ -1,6 +1,6 @@
 .wrapper{
    background-color: #12355b;
-   width:970px;
+   width:1270px;
    min-height: 600px;
    padding: 10px;
 }
@@ -41,7 +41,7 @@ a{
 
 .mainContent{
     vertical-align: top;
-    width: 655px;
+    width: 955px;
     padding: 10px;
     margin-top: 1em;
     border-radius: 10px;
@@ -51,8 +51,15 @@ a{
     color: white;
 
 }
+.mainContent p{
+    margin-left: 10px;
+}
 .mainContent h3{
     color: #bfd7ea;
+    margin-left: 10px;
+}
+span{
+    color: #6986fa;
 }
 
 footer{
